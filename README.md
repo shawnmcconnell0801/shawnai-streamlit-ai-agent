@@ -1,6 +1,6 @@
 # ShawnAI 🤖
 
-A locally hosted AI chatbot built using **Python, Streamlit, Ollama, and SQLite**.
+A locally hosted AI agent built using **Python, Streamlit, Ollama, and SQLite**.
 
 ShawnAI provides an interactive AI chat experience with persistent conversation storage, chat management, and conversation export functionality.
 
